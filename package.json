@@ -1,0 +1,27 @@
+{
+  "name": "improved-couscous",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GmBodhi/improved-couscous.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GmBodhi/improved-couscous/issues"
+  },
+  "homepage": "https://github.com/GmBodhi/improved-couscous#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "react": "^17.0.2",
+    "three": "^0.128.0",
+    "ws": "^7.4.5"
+  }
+}

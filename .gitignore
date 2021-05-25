@@ -1,3 +1,7 @@
+# repl files
+.replit
+main.sh
+
 # Logs
 logs
 *.log
